@@ -1,2 +1,5 @@
 APScanner/sdkconfig
 APScanner/build/
+ConnectToAP/build/
+ConnectToAP/sdkconfig
+ConnectToAP/main/config.h
